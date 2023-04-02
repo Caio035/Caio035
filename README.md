@@ -18,5 +18,3 @@
   </div>
   
   ##
-    
-  ![Snake animation](https://github.com/Caio035/Caio035/blob/output/github-contribuition-grid-snake.svg)
